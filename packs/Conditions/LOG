@@ -1,7 +1,7 @@
-2026/02/05-15:30:57.982 6318 Recovering log #3
-2026/02/05-15:30:57.988 6318 Delete type=0 #3
-2026/02/05-15:30:57.989 6318 Delete type=3 #2
-2026/02/05-15:35:20.016 5f40 Level-0 table #7: started
-2026/02/05-15:35:20.016 5f40 Level-0 table #7: 0 bytes OK
-2026/02/05-15:35:20.019 5f40 Delete type=0 #5
-2026/02/05-15:35:20.031 5f40 Manual compaction at level-0 from 'undefined' @ 72057594037927935 : 1 .. 'undefined' @ 0 : 0; will stop at (end)
+2026/02/05-19:49:31.672 afdc Recovering log #10
+2026/02/05-19:49:31.680 afdc Delete type=0 #10
+2026/02/05-19:49:31.680 afdc Delete type=3 #8
+2026/02/05-19:50:17.795 9228 Level-0 table #15: started
+2026/02/05-19:50:17.798 9228 Level-0 table #15: 10722 bytes OK
+2026/02/05-19:50:17.800 9228 Delete type=0 #13
+2026/02/05-19:50:17.807 9228 Manual compaction at level-0 from '!journal!0SLoYPLF7nSIr0yz' @ 72057594037927935 : 1 .. '!journal.pages!v5B4JB5nKICkfiAj.xznoelEhOJzRuQNL' @ 0 : 0; will stop at (end)
