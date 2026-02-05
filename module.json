@@ -1,0 +1,340 @@
+{
+  "id": "shareddata",
+  "title": "SharedData",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "13"
+  },
+  "authors": [
+    {
+      "name": "Freppis",
+      "flags": {}
+    }
+  ],
+  "flags": {
+    "canUpload": true
+  },
+  "packs": [
+    {
+      "name": "Adversities",
+      "label": "Adversities",
+      "path": "packs/Adversities",
+      "type": "Item",
+      "system": "l5r5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "Bonds",
+      "label": "Bonds",
+      "path": "packs/Bonds",
+      "type": "Item",
+      "system": "l5r5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "Distinctions",
+      "label": "Distinctions",
+      "path": "packs/Distinctions",
+      "type": "Item",
+      "system": "l5r5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "Passions",
+      "label": "Passions",
+      "path": "packs/Passions",
+      "type": "Item",
+      "system": "l5r5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "Titles",
+      "label": "Titles",
+      "path": "packs/Titles",
+      "type": "Item",
+      "system": "l5r5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "Anxieties",
+      "label": "Anxieties",
+      "path": "packs/Anxieties",
+      "type": "Item",
+      "system": "l5r5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "school",
+      "label": "School Curriculum",
+      "path": "packs/school",
+      "type": "JournalEntry",
+      "system": "l5r5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "presentation",
+      "label": "Great Clans Presentation",
+      "path": "packs/presentation",
+      "type": "JournalEntry",
+      "system": "l5r5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "Kata",
+      "label": "Kata",
+      "path": "packs/Kata",
+      "type": "Item",
+      "system": "l5r5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "Kiho",
+      "label": "Kiho",
+      "path": "packs/Kiho",
+      "type": "Item",
+      "system": "l5r5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "Inversions",
+      "label": "Inversions",
+      "path": "packs/Inversions",
+      "type": "Item",
+      "system": "l5r5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "Invocations",
+      "label": "Invocations",
+      "path": "packs/Invocations",
+      "type": "Item",
+      "system": "l5r5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "Rituals",
+      "label": "Rituals",
+      "path": "packs/Rituals",
+      "type": "Item",
+      "system": "l5r5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "Shuji",
+      "label": "Shuji",
+      "path": "packs/Shuji",
+      "type": "Item",
+      "system": "l5r5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "Maho",
+      "label": "Maho",
+      "path": "packs/Maho",
+      "type": "Item",
+      "system": "l5r5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "Ninjutsu",
+      "label": "Ninjutsu",
+      "path": "packs/Ninjutsu",
+      "type": "Item",
+      "system": "l5r5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "Mantra",
+      "label": "Mantra",
+      "path": "packs/Mantra",
+      "type": "Item",
+      "system": "l5r5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "sAbilities",
+      "label": "School Abilities",
+      "path": "packs/sAbilities",
+      "type": "Item",
+      "system": "l5r5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "mAbilities",
+      "label": "Mastery Abilities",
+      "path": "packs/mAbilities",
+      "type": "Item",
+      "system": "l5r5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "Properties",
+      "label": "Properties",
+      "path": "packs/Properties",
+      "type": "Item",
+      "system": "l5r5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "Items",
+      "label": "Items",
+      "path": "packs/Items",
+      "type": "Item",
+      "system": "l5r5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "Armors",
+      "label": "Armors",
+      "path": "packs/Armors",
+      "type": "Item",
+      "system": "l5r5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "Weapons",
+      "label": "Weapons",
+      "path": "packs/Weapons",
+      "type": "Item",
+      "system": "l5r5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "Signaturescroll",
+      "label": "Signature Scroll",
+      "path": "packs/Signaturescroll",
+      "type": "Item",
+      "system": "l5r5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "celestialbloons",
+      "label": "Celestial Implement Boons",
+      "path": "packs/celestialbloons",
+      "type": "Item",
+      "system": "l5r5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "Conditions",
+      "label": "Conditions",
+      "path": "packs/Conditions",
+      "type": "JournalEntry",
+      "system": "l5r5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "terrainqualities",
+      "label": "Terrain Qualities",
+      "path": "packs/terrainqualities",
+      "type": "JournalEntry",
+      "system": "l5r5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "Opportunities",
+      "label": "Opportunities",
+      "path": "packs/Opportunities",
+      "type": "JournalEntry",
+      "system": "l5r5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "itemPatterns",
+      "label": "Item Patterns",
+      "path": "packs/itemPatterns",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "l5r5e"
+    }
+  ],
+  "description": ""
+}
