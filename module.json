@@ -2,6 +2,8 @@
   "id": "shareddata",
   "title": "SharedData",
   "version": "1.0.0",
+  "manifest": "https://raw.githubusercontent.com/Freppis/shareddata/main/module.json",
+  "download": "https://github.com/Freppis/shareddata/releases/download/Module/shareddata.rar"
   "compatibility": {
     "minimum": "12",
     "verified": "13"
